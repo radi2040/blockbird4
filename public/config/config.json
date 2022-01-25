@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe1de4f966cf0f77f908c2649d793967b624f54af",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xe1de4f966cf0f77f908c2649d793967b624f54af",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "blockbird",
+  "SYMBOL": "bird",
+  "MAX_SUPPLY": 103,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 100,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/blockbird-v3",
+  "SHOW_BACKGROUND": true
+}
